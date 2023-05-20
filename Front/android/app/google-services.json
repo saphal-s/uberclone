@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421991292463",
+    "project_id": "uberauth-3c850",
+    "storage_bucket": "uberauth-3c850.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421991292463:android:375b72fda817899c0730da",
+        "android_client_info": {
+          "package_name": "com.front"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421991292463-1g90ffqskhp24989c5csts2jh7obk5cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO-27ovMyVdnal4ZHESzP10424-GlIdXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421991292463-1g90ffqskhp24989c5csts2jh7obk5cs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
